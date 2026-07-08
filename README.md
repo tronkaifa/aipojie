@@ -1,6 +1,6 @@
 # aipojie
 aipojie 
-# 🚀 tulinTron 波场靓号生成器 使用指南 (v3.4)
+# 🚀 tulinTron 波场靓号生成器 使用指南 (v3.4)  免授权
 
 [📖 English](README.md)
 
