@@ -18,6 +18,8 @@ aipojie
 | 显卡驱动 | 最新 NVIDIA 驱动 |
 
 > 下载 CUDA Toolkit: [https://developer.nvidia.com/cuda-downloads](https://developer.nvidia.com/cuda-downloads)
+>
+> 软件下载链接：   [(https://t.me/tgaipojie/6)]
 
 ---
 
